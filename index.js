@@ -11,6 +11,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "gmail",
+        message: "What is your gmail?"
+    },
+    {
+        type: "input",
         name: "badge",
         message: "Please provide the badges links that you want:"
     },

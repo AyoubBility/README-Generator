@@ -49,6 +49,9 @@ function generateMarkdown(answers) {
 ## Username ##
   ${answers.username}
 
+## Gmail ##
+  ${answers.gmail}
+
 ## Github ##
   ${answers.repo}
 
